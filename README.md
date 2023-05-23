@@ -1,2 +1,2 @@
-# PyYTube
-Download YouTube videos using this python software.
+# Pyhton Modern GUI Application
+Python modern GUI applications.
